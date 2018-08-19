@@ -355,5 +355,10 @@ namespace BarcodeLibTest
                 }//if
             }//using
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            txtData.Text = "";
+        }
     }//class
 }//namespace
