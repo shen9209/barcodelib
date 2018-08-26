@@ -355,5 +355,10 @@ namespace BarcodeLibTest
                 }//if
             }//using
         }
+
+        private void cbEncodeType_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }//class
 }//namespace
